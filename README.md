@@ -1,46 +1,28 @@
 # Dr. Horacio Tapia-McClung
-## PostDoctoral Research @ LANIA
+## Postdoctoral Research @ LANIA funded by CONACyT (2014)
 ### Notebooks on scientific computing with CUDA (and Python)
 ============================================================
 
-A set of notebooks on the use of CUDA with Python, using IPython notebooks.
+A set of IPython notebooks on how to use  CUDA with Python to solve some problems.
+Files are organised following a structure that I got from [Carl Boettiger's Lab Notebooks](khttp://carlboettiger.info/lab-notebook.html): a project has a DESCRIPTION with the metadata, a README.md with this information, a python_nb dir where most of the work is in the form of IPython notebooks; a src directory has additional code that is used in the notebooks.
 
-To open these notebooks in IPython, download the files to a directory on your computer and from that directory run:
+To open these notebooks in IPython, download the files in the `python_nb` to a directory on your computer and from that directory run:
 
     $ ipython notebook
 
-This will open a new page in your browser with a list of the available notebooks.
+This will open a new page in your browser with a list of the available notebooks (see below).
 
-TOC
-===
-1. Introducción
-    0. Infraestructura existente.
-    1. El modelo de programación de CUDA
-    3. Mediciones de rendimiento
-    
-2. Python y PyCUDA
-    1. El módulo PyCUDA
-    2. Ejemplos 
-    3. Mediciones de rendimiento
-    
-3. Aplicaciones
+You can also 
 
-Online read-only versions
-=========================
-
-Use the following links:
-
-* [N-0 Introducción] 00_Introducción
-* [N-1 Infraestructura Existente] 01_InfraExistente
-* [N-2 Modelo de Programación de CUDA] 02_ModeloCUDA
-* [N-3 Numpy - multidimensional data arrays](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-2-Numpy.ipynb)
-* [Lecture-3 Scipy - Library of scientific algorithms](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-3-Scipy.ipynb)
-* [Lecture-4 Matplotlib - 2D and 3D plotting](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-4-Matplotlib.ipynb)
-* [Lecture-5 Sympy - Symbolic algebra](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-5-Sympy.ipynb)
-* [Lecture-6A C and Fortran integration](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-6A-Fortran-and-C.ipynb)
-* [Lecture-6B HPC](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-6B-HPC.ipynb)
-* [Lecture-7 Revision Control Software](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-7-Revision-Control-Software.ipynb)
-
+* [01_Libreta_1](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-2-Numpy.ipynb)
+* [01_Libreta_2]
+* [01_Libreta_3]
+* [01_Libreta_4]
+* [01_Libreta_5]
+* [01_Libreta_6]
+* [01_Libreta_7]
+* [01_Libreta_8]
+* [01_Libreta_9]
 
 License
 =======
