@@ -21,7 +21,6 @@ This will open a new page in your browser with a list of the available notebooks
 * [07_Libreta_7](http://nbviewer.ipython.org/github/htapia/lania-pd/blob/master/python_nb/07_Libreta_7.ipynb)
 * [08_Libreta_8](http://nbviewer.ipython.org/github/htapia/lania-pd/blob/master/python_nb/08_Libreta_8.ipynb)
 * [09_Libreta_9](http://nbviewer.ipython.org/github/htapia/lania-pd/blob/master/python_nb/09_Libreta_9.ipynb)
-http://nbviewer.ipython.org/github/htapia/lania-pd/blob/master/python_nb/09_Libreta_9.ipynb
 
 License
 =======
