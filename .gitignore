@@ -1,1 +1,6 @@
 .DS_Store
+src/bin/
+*.txt
+*.pyc
+.ipynb_checkpoints/
+*~
